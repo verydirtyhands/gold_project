@@ -78,4 +78,4 @@
 
 ---
 
-#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/taxi_counter/blob/main/p8f.ipynb'>Модель для прогнозирования коэффициента восстановления золота</a>
+#### Если проект не открывается или вы хотите посмотреть со всеми интерактивными ячейками(plotly,ydata-profiling), его можно открыть по ссылке: <a href='https://nbviewer.org/github/verydirtyhands/gold_project/blob/main/p8f.ipynb'>Модель для прогнозирования коэффициента восстановления золота</a>
